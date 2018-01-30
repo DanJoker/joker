@@ -1504,6 +1504,7 @@ public class RedisUtil {
 	    /**
 	     * <p>通过key判断值得类型</p>
 	     * @param key
+	     * @author Joker
 	     * @return
 	     */
 	    public static String type(String key){
